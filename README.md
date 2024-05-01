@@ -1,2 +1,4 @@
--This is just a summary of well you can mitigate risk factor with python.
--You can better understand the code in jupyter or google colab - with the commented out plot code inside the main py.
+• Google Colab/ Jupyter NB /Vs Code
+• used Pandas , statsmodel tools, Ols matrix
+• commented out plot code inside the main py.
+• Feel free to observe the plots on momentum & risk factors before the merge with yahoo finance.
